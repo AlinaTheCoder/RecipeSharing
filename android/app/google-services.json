@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "639089535813",
+    "firebase_url": "https://recipesharing-55b39-default-rtdb.firebaseio.com",
+    "project_id": "recipesharing-55b39",
+    "storage_bucket": "recipesharing-55b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639089535813:android:ad49dec138895e55f0ac2c",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8bSRQERyboSdyJnR_bbpERqMIusMU5EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
